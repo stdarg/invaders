@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<audacityproject projname="ufo_explosion_data" version="1.1.0" audacityversion="1.2.5" sel0="0.0000000000" sel1="0.6899773243" vpos="0" h="0.0000000000" zoom="1988.8000000000" rate="22050.000000" >
+	<tags title="" artist="" album="" track="-1" year="" genre="-1" comments="" id3v2="1" />
+	<wavetrack name="ufo_explosion" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="524288" sampleformat="131073" numsamples="15214" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00018.au' len='15214' min='-1.000000' max='0.970001' rms='0.251823'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+</audacityproject>

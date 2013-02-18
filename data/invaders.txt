@@ -1,0 +1,27 @@
+invader a - 
+56, 112  --- 16 pixels h space -- 11 invaders
+8 pixels wide
+8 pixels high
+
+x inc = 24 (16+8)
+
+
+invader b-
+54,144 --- 10 pixels h space
+54,176
+11 pixels wide
+8 pixels high
+
+x inc = 21
+
+invader c -
+52,208 --- 8 pixels h space
+52,240
+12 pixels wide
+8 pixels high
+
+x inc = 20
+
+
+8 pixels between rows
+
